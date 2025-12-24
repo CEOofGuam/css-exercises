@@ -5,10 +5,10 @@ body {
 
 .one {
   background: pink;
-  border: 3px solid blue;
+  border: 3px solid rgb(119, 119, 143);
   /* CHANGE ME */
-  padding: 0px;
-  margin: 0px;
+  padding: 32px;
+  margin: 12px;
 }
 
 .two {
